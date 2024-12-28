@@ -1,8 +1,6 @@
 # Spring Boot XML
 ## Introduction
 This repository was meant to have an example of XML processing in a Spring Boot context.
-## Current state
-The current state of the repository contains tests where the XML processing is implemented.
 ## Project Structure (should be state)
 Several cases can be used when processing a XML file including:
 * API (programmatic) way:
